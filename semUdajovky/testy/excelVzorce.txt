@@ -1,0 +1,6 @@
+L	M					N				O
+
+0	=COUNTIFS($A:$A;L1;$B:$B;">=0")		=SUMIFS($B:$B;$A:$A;L1)		=IF(M1>2;N1/M1;)
+1
+2
+3

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="structures::MaticaSuvisla&lt;T&gt;">
+    <Position X="1.75" Y="3.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAQAAAACAACBAAABEAAAEAAACAAAAAKg=</HashCode>
+      <FileName>matica_suvisla.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matica&lt;T&gt;">
+    <Position X="4.5" Y="0.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAQAAAAAAACAAAABEAAAEACAAAAAAAAg=</HashCode>
+      <FileName>matica.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::MaticaNesuvisla&lt;T&gt;">
+    <Position X="7.5" Y="3.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQCAAAAAACAAAABEAAAEAAACAAAAAKg=</HashCode>
+      <FileName>matica_nesuvisla.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

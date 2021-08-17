@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="structures::List&lt;T&gt;" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAACYAAAAAAQAEAAAEAAAAgEAECAAI=</HashCode>
+      <FileName>structures\list\list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::ArrayList&lt;T&gt;" Collapsed="true">
+    <Position X="6" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAABAAAAACYgAAABAQAEAAAEAAgAgEAECAAA=</HashCode>
+      <FileName>structures\list\array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedListItem&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAIAAAAAgAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>structures\list\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAABBQAAAACYEABABAQAEAAAEAAAAgEIECAAA=</HashCode>
+      <FileName>structures\list\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestListov&lt;T&gt;">
+    <Position X="2.25" Y="3" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAEEAABAAgCUAAAAAAAAAABBAAAA=</HashCode>
+      <FileName>TestListov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DoublyCircularLinkedListItem&lt;T&gt;" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAgAAAAAAAABAIAAAAAAAAAAAACIAACAAAAAAA=</HashCode>
+      <FileName>doubly_circular_linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DoublyCircularLinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABQAAAQCYEAAABAQAEAAAEAAAAgEoECAAA=</HashCode>
+      <FileName>doubly_circular_linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
